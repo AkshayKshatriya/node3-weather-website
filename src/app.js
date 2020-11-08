@@ -76,9 +76,6 @@ app.get('/weather', (req, res) => {
             })
         })
     })
-
-
-    
 })
 
 app.get('/products', (req, res) => {
